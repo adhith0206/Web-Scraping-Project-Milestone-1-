@@ -1,0 +1,1 @@
+Repository ini merupakan salah satu project milestones yang dilakukan di Bootcamp Hacktiv8. Project ini berisikan mengenai pembuatan data pipeline ETL. Tugasnya meliputi ekstraksi data dari salah satu situs web, kemudian dilakukan proses data cleaning, dan hasil data-nya disimpan ke dalam basis data PostgreSQL.
